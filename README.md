@@ -1,17 +1,13 @@
-# hi, im sxarf.
-### timewaster and coder.
+💫 about me:
+https://boe.onl/con3/<br><br>also known as con3/mr fucking sigma<br><br>╱|、             boe paid ontop <br>(˚ˎ 。7         ✝️ <br>|、˜〵           https://time.is/UK<br>じしˍ,)ノ      founder of boe.onl<br><br>staff in shibagt genesis
 
-## languages i code in:
-[csharp](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a7a7746d-5327-4bd9-a3d7-3063c4ad16f2" />)
-[python](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7baef00e-8629-4dea-9406-863e3623ee28" />)
-[c++ (a bit)](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ff900e3d-9902-4655-a930-08b56cc907f8" />)
-
-## projects
-[boe paid](https://reseller.best/product/boe/)
-[boe.onl](https://boe.onl/)
-[quorum](https://discord.gg/DcC635eZCU/)
-
-## silly gifs  
-[1](https://tenor.com/view/sillycat-gif-16450871626103949888)
-[2](https://cdn.discordapp.com/attachments/1146156165051461642/1339784415793905684/i_square_to_god.gif?ex=699085b8&is=698f3438&hm=0faf1e627692a36774ab6f01a7e3cb795262f113e6e8b5bd4d8421a930ab4a18&)
-[3](https://cdn.discordapp.com/attachments/1290086295254597642/1436033409087439020/togif.gif?ex=6990a654&is=698f54d4&hm=61d449cecda32ee1ad5469c4bed9ce4099e17ea58ca8db3b8013361e8421a5ed&)
+🌐 socials:
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
+💻 tech stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+📊 github stats:
+![](https://github-readme-stats.vercel.app/api?username=sxarf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sxarf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sxarf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+![](https://visitcount.itsvg.in/api?id=sxarf&icon=0&color=0)
