@@ -1,6 +1,15 @@
 <h1 align="center">hey, its me silvr-cli!</h1>
 <h3 align="center">a linux-user and a programmer.</h3>
 
+<div align="center">
+
+  ```diff
+  - developer
+  + 💫 self-taught developer
+  ```
+
+</div>
+
 - currently working on [silvr-os](https://github.com/silvr-cli/silvr-os)
 
 - also working on [boe.onl](https://boe.onl)
