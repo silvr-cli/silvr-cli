@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  # ${\color{blue}wassup! \space its \space me \space silvr-cli!}$
+  # ${\color{blue}wassup! \space its \space me \space silvr!}$
 
 <div align="center">
   
