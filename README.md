@@ -11,6 +11,8 @@
   
 </div>
 
+<img align="right" src="https://user-images.githubusercontent.com/66202304/218335076-6a3c08b2-911c-4c5e-b699-d0bd827f8f38.gif" width="60%">
+
 <div align="center">
 
   ```diff
