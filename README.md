@@ -1,5 +1,15 @@
-<h1 align="center">hey, its me silvr-cli!</h1>
-<h3 align="center">a linux-user and a programmer.</h3>
+
+<div align="center">
+
+  # ${\color{blue}wassup! \space its \space me \space silvr-cli!}$
+
+<div align="center">
+  
+<div align="center">
+  
+  ### ${\color{lightblue}passionate \space linux \space user.}$
+  
+</div>
 
 <div align="center">
 
