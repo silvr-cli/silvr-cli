@@ -25,7 +25,6 @@
 <div align="left">
   
  - currently working on [silvr-os](https://github.com/silvr-cli/silvr-os)
- - also working on [boe.onl](https://boe.onl)
  - linux enjoyer (mint & arch dualboot btw)
  - love computers
   
